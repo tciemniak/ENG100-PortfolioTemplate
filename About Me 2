@@ -1,0 +1,41 @@
+Enter file contents here<!DOCTYPE html>
+<html>
+
+<head>
+	<!-- add styling to the assets/css folder-->
+	<link rel="stylesheet" type="text/css" href="assets/css/portfolio.css" />
+
+</head>
+
+<body>
+	<div class="body-center">
+	<!-- navbar -->
+	<div class="navbar">
+		<a href="index.html">Home</a>
+		<a href="aboutme.html">About Me</a>
+		<a href="projects.html">Projects</a>
+		<a href="contact.html">Contact</a>
+	</div>
+	<!-- end navbar --> 
+	<br><br>
+	
+	<h2>About Me</h2>
+	
+	<img id="profile-picture" src="assets/img/FirstnameLastname.jpg" width="200" height="300" class="floatright" />
+	<p>Hi my name is Tommy Ciemniak and I am currently a Computer Science major at the University of Illinois at Urbana-Champaign and originally from Arlington Heights, Illinois.
+	In high school, I played soccer, swam, played tennis, and was part of the band. 
+
+	<p>	Take a second to look at my <a href="assets/Resume-FirstnameLastname.pdf">r�sum�</a>!</p>
+</body>
+
+</div>
+	
+	</div>
+
+
+
+
+	<!-- add javascript code to the assets/js folder-->
+	<script type="text/javascript" src="assets/js/portfolio.js"></script>
+</body>
+</html>
